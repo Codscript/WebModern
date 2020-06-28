@@ -13,6 +13,13 @@ Use o comentario para explicar coisas implicitas.
 
 ## Variavei e Constantes
 
-var(identificador) a(variavel) = 3(valor)
+var redeclaravel e reatribuivel, let inredeclaravel e reatribuivel, const inredeclaravel e inreatribuivel.
 
-let(identificador) b(variavel) = 4(valor)
+Declarando variaveis
+
+var/let/const(identificador) a(variavel) = 3(valor)
+
+## Tipgem fraca
+
+Tipagem dinamica pode mudar de tipo ou variar, as variaveis podem ter multiplos valores e tipos.
+
