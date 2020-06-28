@@ -5,7 +5,9 @@ Curso completo com abordagens java iscript aqui, você encrontrará minhas anota
 ## Comentarios
 
 // Comentario de linha barra barra
+
 /* Comentario de bloco barra asterisco */
+
 Evite Comentarios obvios, faça um codigo limpo e legivel (Não abrevie variaveis ou funções), faça contarios em carater de aprendizagem
 Use o comentario para explicar coisas implicitas.
 
