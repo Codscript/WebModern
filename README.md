@@ -2,6 +2,8 @@
 
 Curso completo com abordagens java iscript aqui, você encrontrará minhas anotações sobre o curso.
 
+Dica: Ctrl+Alt+N roda o code runer no terminal.
+
 ## Comentarios
 
 // Comentario de linha barra barra
